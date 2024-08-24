@@ -7,7 +7,7 @@ import { userConnectWallet } from "../helpers/userConnectWallet";
 import { ADDRESS_REGEX } from "../helpers/constants";
 
 async function main() {
-  // yarn get-voting-power "contractAddress" "delegatorAddress"
+  // yarn get-voting-power "tokenContractAddress" "delegatorAddress"
 
   // --- Validate contractAddress and delegatorAddress ---
 

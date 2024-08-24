@@ -15,7 +15,7 @@ import { userConnectWallet } from "../helpers/userConnectWallet";
 
 async function main() {
   // yarn deploy-contract "token" "tokenName" "tokenSymbol"
-  // yarn deploy-contract "ballot" "proposal1,proposal2,proposal3,..." "tokenAddress" "targetBlockNumber"
+  // yarn deploy-contract "ballot" "proposal1,proposal2,proposal3,..." "tokenContractAddress" "targetBlockNumber"
 
   // Take arguments and cut the first two args as it's not needed
   const userInputs = process.argv.slice(2);

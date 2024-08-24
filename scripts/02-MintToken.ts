@@ -7,7 +7,7 @@ import { userConnectWallet } from "../helpers/userConnectWallet";
 import { ADDRESS_REGEX } from "../helpers/constants";
 
 async function main() {
-  // yarn mint-token "contractAddress" "recipientAddress" "amount"
+  // yarn mint-token "tokenContractAddress" "recipientAddress" "amount"
 
   // Take arguments and cut the first two args as it's not needed
   const userInputs = process.argv.slice(2);
