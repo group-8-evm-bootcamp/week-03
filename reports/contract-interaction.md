@@ -1,5 +1,11 @@
 # Contract Interaction
 
+## Events
+
+1. [Token Contract](https://sepolia.etherscan.io/address/0x6aa41b06c351d56ee34b9c447b3cdb23590e3b22#events)
+
+2. [Ballot Contract](https://sepolia.etherscan.io/address/0xaab60980afd8732915b3b5f0638e6107d93fe638#events)
+
 ## Scenario
 
 ### Tianbuyung's Interaction
@@ -43,32 +49,32 @@
 
 ### Joosh75 Interaction
 
-7. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](<step1.png>)
+7. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](step1.png)
 
-8. Get voting power using script ![](<step2.png>)
+8. Get voting power using script ![](step2.png)
 
-9. Check voting power but throws error because target block number has not yet been reached ![](<step3.png>)
+9. Check voting power but throws error because target block number has not yet been reached ![](step3.png)
 
 ### ErZeTe / Rama Interaction
 
-10. Run the GetVotingPower to get voting power ![rama-getvotingpower](<rama-getvotingpower.png>)
+10. Run the GetVotingPower to get voting power ![rama-getvotingpower](rama-getvotingpower.png)
 
-11. Tried to check the voting power I have but failed ![rama-readvotingpower-failed](<rama-readvotingpower-failed.png>)
+11. Tried to check the voting power I have but failed ![rama-readvotingpower-failed](rama-readvotingpower-failed.png)
 
-12. Tried to cast vote but failed because it hasn't reached the target block ![rama-castvote-failed](<rama-castvote-failed.png>)
+12. Tried to cast vote but failed because it hasn't reached the target block ![rama-castvote-failed](rama-castvote-failed.png)
 
 ### RajRao10 / Raj Interaction
 
-13. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](<Raj_01_G8T_Token_Import.png>)
+13. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](Raj_01_G8T_Token_Import.png)
 
-14. Get voting power using script ![](<Raj_02_GetVotingPower.png>)
+14. Get voting power using script ![](Raj_02_GetVotingPower.png)
 
-15. Check voting power but throws error because target block number has not yet been reached ![](<Raj_03_ReadVotingPower_Failed.png>)
+15. Check voting power but throws error because target block number has not yet been reached ![](Raj_03_ReadVotingPower_Failed.png)
 
 ### Vins' Interaction
 
-16. Confirmed GBT token transferred to my wallet from Tianbuyung ![](<vins-metamask.png>)
+16. Confirmed GBT token transferred to my wallet from Tianbuyung ![](vins-metamask.png)
 
-17. Run get voting power and confirm the transaction hash [0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924](https://sepolia.etherscan.io/tx/0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924) ![](<vins-get-voting-power.png>)
+17. Run get voting power and confirm the transaction hash [0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924](https://sepolia.etherscan.io/tx/0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924) ![](vins-get-voting-power.png)
 
-18. Run read voting power but error due to not yet reach the block number ![](<vins-read-voting-power.png>)
+18. Run read voting power but error due to not yet reach the block number ![](vins-read-voting-power.png)

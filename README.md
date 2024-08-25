@@ -85,15 +85,14 @@ This is a group activity for at least 3 students:
 
 ## Group 8 Participants
 
-| Unique id | Discord username |
-| --------- | ---------------- |
-| c8ynre    | @tianbuyung      |
-| 4Qt1qT    | @0xOwenn         |
-| gGe7Bg    | @ErZeTe          |
-| PCy7xD    | @joosh75         |
-| PCy7xD    | @joosh75         |
-| YtUdIl    | @rajrao10        |
-| ehpf16    | @Vins            |
+| Unique id | Discord username | Wallet Address                             |
+| --------- | ---------------- | ------------------------------------------ |
+| c8ynre    | @tianbuyung      | 0xaEF3fa5C5ee0dDfC7041Bf742803D246ddf4DF6E |
+| 4Qt1qT    | @0xOwenn         | 0x5073c3929c9BdECd87Cc63068Fd3185F0b6f22A5 |
+| gGe7Bg    | @ErZeTe          | 0x9B389E744A464A0C3705Ee47dF9E964B22c950d3 |
+| PCy7xD    | @joosh75         | 0x62cA7B13a0f7F3B4f55aAd7968aD0a78ea2d625C |
+| YtUdIl    | @rajrao10        | 0x5Ee9CaD768760cdAEC9B8B55E4230cEC0B792c3a |
+| ehpf16    | @Vins            | 0x5256e878D3838c5993fF43697a282d8Aa929DBDC |
 
 ## Report
 
