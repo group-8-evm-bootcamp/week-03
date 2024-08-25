@@ -41,7 +41,6 @@
 
 9. Check voting power but throws error because target block number has not yet been reached ![](<owen-week 3.3.png>)
 
-
 ### Joosh75 Interaction
 
 7. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](<step1.png>)
@@ -65,3 +64,11 @@
 14. Get voting power using script ![](<Raj_02_GetVotingPower.png>)
 
 15. Check voting power but throws error because target block number has not yet been reached ![](<Raj_03_ReadVotingPower_Failed.png>)
+
+### Vins' Interaction
+
+16. Confirmed GBT token transferred to my wallet from Tianbuyung ![](<vins-metamask.png>)
+
+17. Run get voting power and confirm the transaction hash [0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924](https://sepolia.etherscan.io/tx/0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924) ![](<vins-get-voting-power.png>)
+
+18. Run read voting power but error due to not yet reach the block number ![](<vins-read-voting-power.png>)
