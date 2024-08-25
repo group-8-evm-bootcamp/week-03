@@ -58,3 +58,10 @@
 
 12. Tried to cast vote but failed because it hasn't reached the target block ![rama-castvote-failed](<rama-castvote-failed.png>)
 
+### RajRao10 / Raj Interaction
+
+13. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](<Raj_01_G8T_Token_Import.png>)
+
+14. Get voting power using script ![](<Raj_02_GetVotingPower.png>)
+
+15. Check voting power but throws error because target block number has not yet been reached ![](<Raj_03_ReadVotingPower_Failed.png>)
