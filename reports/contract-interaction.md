@@ -32,3 +32,11 @@
 
 6. Read voting power using script. An error is shown because the target block number has not yet been reached.
    ![error-to-read-voting-power](08-error-to-read-voting-power.png)
+
+### 0xOwenn / GavinOwen Interaction
+
+7. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](<owen-week 3.1.png>)
+
+8. Get voting power using script ![0xOwenn-voting-power](<owen-week 3.2.png>)
+
+9. Check voting power but throws error because target block number has not yet been reached ![](<owen-week 3.3.png>)
