@@ -41,6 +41,15 @@
 
 9. Check voting power but throws error because target block number has not yet been reached ![](<owen-week 3.3.png>)
 
+
+### Joosh75 Interaction
+
+7. Import the G8T token into my MetaMask Account that is transferred by "Tianbuyung" ![](<step1.png>)
+
+8. Get voting power using script ![](<step2.png>)
+
+9. Check voting power but throws error because target block number has not yet been reached ![](<step3.png>)
+
 ### ErZeTe / Rama Interaction
 
 10. Run the GetVotingPower to get voting power ![rama-getvotingpower](<rama-getvotingpower.png>)
@@ -48,3 +57,4 @@
 11. Tried to check the voting power I have but failed ![rama-readvotingpower-failed](<rama-readvotingpower-failed.png>)
 
 12. Tried to cast vote but failed because it hasn't reached the target block ![rama-castvote-failed](<rama-castvote-failed.png>)
+
