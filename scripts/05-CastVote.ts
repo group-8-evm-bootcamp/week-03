@@ -7,7 +7,7 @@ import { userConnectWallet } from "../helpers/userConnectWallet";
 import { ADDRESS_REGEX } from "../helpers/constants";
 
 async function main() {
-  // yarn cast-vote "contractAddress" "proposalIndex" "amount"
+  // yarn cast-vote "ballotContractAddress" "proposalIndex" "amount"
 
   // Take arguments and cut the first two args as it's not needed
   const userInputs = process.argv.slice(2);
@@ -27,7 +27,7 @@ async function main() {
   // --- Validate proposalIndex ---
 
   const proposalIndex = BigInt(userInputs[1]) as bigint;
-  if (!proposalIndex) {
+  if (userInputs[1] === undefined || userInputs[1] === null) {
     throw new Error("Proposal index should be provided as second argument");
   }
   console.log("Proposal Index:", proposalIndex);
