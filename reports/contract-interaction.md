@@ -78,3 +78,18 @@
 17. Run get voting power and confirm the transaction hash [0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924](https://sepolia.etherscan.io/tx/0x73dccc2ba35299aee1221e0fb1dc45930e5b92219545381a350951ab8a17c924) ![](vins-get-voting-power.png)
 
 18. Run read voting power but error due to not yet reach the block number ![](vins-read-voting-power.png)
+
+### Tianbuyung's Second Interaction
+
+19. Read voting power after epoch
+    ![read voting power after epoch](<Screenshot 2024-08-26 at 12.19.19.png>)
+
+20. Vote the proposals
+    ![test vote all proposal with small amount](<Screenshot 2024-08-26 at 12.30.51.png>)
+    ![vote the dogs with full power](<Screenshot 2024-08-26 at 12.34.58.png>)
+
+21. Check the winning proposal
+    ![check the winning proposal](<Screenshot 2024-08-26 at 12.37.08.png>)
+
+22. Read voting power after given vote
+    ![read voting power after given vote](<Screenshot 2024-08-26 at 12.37.39.png>)
